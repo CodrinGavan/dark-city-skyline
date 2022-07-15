@@ -1,3 +1,7 @@
 # dark-city-skyline
  Dark City Skyline
-<img src="https://raw.githubusercontent.com/CodrinGavan/dark-city-skyline/master/City-Skyline2.png"/>
+ <ul>
+ <li>
+ <a href="https://codringavan.github.io/dark-city-skyline/">Live Preview</a>
+ </li>
+ </ul>
